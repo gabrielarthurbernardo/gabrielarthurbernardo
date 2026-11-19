@@ -24,7 +24,7 @@ An IT student with a passion for technology, design, and everything in between.
 
 </div>
 
-01. ABOUT ME
+## 01. ABOUT ME
 
 I'm Arthur Gabriel P. Bernardo, an Information Technology student at National University Clark.
 
