@@ -86,7 +86,7 @@ Experimenting with interface design, Figma, digital experiences, and different c
 </tr>
 </table>
 
-03. MY TOOLKIT
+## 03. MY TOOLKIT
 
 Some of the technologies and creative tools I work with or am currently exploring.
 
@@ -108,7 +108,7 @@ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=github,vscode,idea,windows,obs&theme=dark" />
 </p>
 
-04. BEYOND THE SCREEN
+## 04. OUTSIDE OF IT
 
 Not everything happens in an IDE.
 
@@ -116,10 +116,10 @@ Gaming: Valorant, Minecraft, and other games.
 Design: Graphic design, digital layouts, and creative experimentation.
 PC Building: Hardware, upgrades, cable management, and performance optimization.
 Content Creation: Video editing, livestreaming, and digital content.
-Personal Interests: Chiikawa, collectibles, and cute minimalist aesthetics.
+Personal Interests: Chiikawa, collectibles, and modding keyboards.
 Learning: Exploring cybersecurity, development, and new technologies.
 
-05. LABORATORY ACTIVITIES
+## 05. LABORATORY ACTIVITIES
 
 A collection of my programming laboratory exercises, hands-on activities, and academic work for ITE-102 at National University Clark.
 
@@ -135,9 +135,9 @@ Documenting my progress, learning, and development as an IT student.
 
 </div>
 
-06. LET'S CONNECT
+## 06. LET'S CONNECT
 
-I'm always open to meeting new people, sharing ideas, exploring creative projects, and connecting with fellow tech enthusiasts.
+I'm always open to meeting new people, sharing ideas, exploring creative projects.
 
 <div align="center">
 
@@ -153,9 +153,9 @@ I'm always open to meeting new people, sharing ideas, exploring creative project
 
 <br><br>
 
-Thanks for visiting my little corner of GitHub!
+Thanks for visiting my GitHub Profile!
 
-Made with curiosity & creativity.
+Made with 4hours of migraine
 
 © 2026 Arthur Gabriel P. Bernardo
 
