@@ -112,12 +112,13 @@ Tools & Platforms
 
 Not everything happens in an IDE.
 
-🎮 Gaming: Valorant, Minecraft, and other games.
-🎨 Design: Graphic design, digital layouts, and creative experimentation.
-🖥️ PC Building: Hardware, upgrades, cable management, and performance optimization.
-🎥 Content Creation: Video editing, livestreaming, and digital content.
-🧸 Personal Interests: Chiikawa, collectibles, and cute minimalist aesthetics.
-📚 Learning: Exploring cybersecurity, development, and new technologies.
+Gaming: Valorant, Minecraft, and other games.
+Design: Graphic design, digital layouts, and creative experimentation.
+PC Building: Hardware, upgrades, cable management, and performance optimization.
+Content Creation: Video editing, livestreaming, and digital content.
+Personal Interests: Chiikawa, collectibles, and cute minimalist aesthetics.
+Learning: Exploring cybersecurity, development, and new technologies.
+
 05. LABORATORY ACTIVITIES
 
 A collection of my programming laboratory exercises, hands-on activities, and academic work for ITE-102 at National University Clark.
