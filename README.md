@@ -33,7 +33,8 @@ I enjoy exploring the intersection of technology and creativity. Whether it's de
 I don't like limiting myself to just one field. I'm always curious about how things work and how I can turn that curiosity into something meaningful.
 
 "A little bit of creativity, a little bit of technology, and a lot of curiosity."
-02. WHAT I'M INTO
+
+## 02. WHAT I'M INTO
 
 <table>
 <tr>
